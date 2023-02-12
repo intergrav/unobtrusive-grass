@@ -2,7 +2,7 @@ This pack shortens grass, ferns and more to make them less obtrusive. It's curre
 
 ## 📥 Installation guide
 
-Simply download the zip file [from Modrinth](https://modrinth.com/resourcepack/unobtrusive-grass) and drop it into your `.minecraft/resourcepacks` folder. After that, enable it in your resource packs menu.
+Simply download the zip file [from Modrinth](https://modrinth.com/resourcepack/unobtrusive-grass) and drop it into your `.minecraft/resourcepacks` folder. After that, enable it in your resource packs menu. If you are using other resource packs, you may need to move this one to the top for the textures to be applied.
 
 ## 🔧 Modified blocks
 
